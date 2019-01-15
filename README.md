@@ -50,7 +50,7 @@ Enter .csv filename (w/o etxn)#Slide3
 NULL
 
 # The output:
-After executing the above lines, you will find three .csv files in your working directory: Slide1result.csv, Slide2result.csv, Slide3result.csv. Column A of these files contain serial numbers of the cells, Column B is the normalized mean gray value and Column C indicates whether the cell is positive (1) or negative (0) for that cell. There will also be a file named "Max_min.csv" where Column A is the serial number of the input file, Column B and Column C are the background subtracted maximum and minimum of that file and Column D is the normalized minimum values.
+After executing the above lines, you will find three .csv files in your working directory: Slide1result.csv, Slide2result.csv, Slide3result.csv. Column A of these files contain serial numbers of the cells, Column B is the normalized mean gray value and Column C indicates whether the cell is positive (1) or negative (0) for that stain. There will also be a file named "Max_min.csv" where Column A is the serial number of the input file, Column B and Column C are the background subtracted maximum and minimum of that file and Column D is the normalized minimum values.
 
 # Optional:
 You can also calculate the threshold elsewhere and input that to analyse your files. To activate this function when the program asks "Do you want to calculate threshold (y/n)?" Press 'n' and enter threshold value manually when prompted. 
