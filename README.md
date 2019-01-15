@@ -13,7 +13,7 @@ Filename: IHCanalysis.R
 1.	Install R from https://cran.r-project.org/
 2.	Open R interface  File  Change dir … : set to a folder where you will store function files and data files. You have to set this at the beginning of each session
 3.	Copy and paste IHCanalysis.R and IHCthreshold.R files into the folder from step 2
-4.	In the R interface: File  Source R code select a file from step 3, repeat for all the three files
+4.	In the R interface: File  Source R code select a file from step 3, repeat for the other file
 5.	Type: IHCanalysis() in the R console and follow along with the prompt
 # Example run of the toolkit with files provided: 
 > source("C:\\Users\\Sampurna\\Documents\\PhDYearOne\\R\\IHCthreshold.R")
