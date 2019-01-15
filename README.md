@@ -18,8 +18,11 @@ Filename: IHCanalysis.R
 # Example run of the toolkit with files provided: 
 > source("C:\\Users\\Sampurna\\Documents\\PhDYearOne\\R\\IHCthreshold.R")
 > source("C:\\Users\\Sampurna\\Documents\\PhDYearOne\\R\\IHCanalysis.R")
+
 > IHCanalysis()
+
 Do you want to calculate threshold value?(y/n)y
+
 [1] "*****Starting calculation of threshold value*****"
 
 How many files do you want to analyse?3
